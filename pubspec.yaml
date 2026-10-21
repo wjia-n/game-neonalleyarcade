@@ -1,7 +1,7 @@
 name: neonalleyarcade
 description: "Neon Alley Arcade - Rapid-fire neon target lanes"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 environment:
   sdk: ^3.13.5
 
